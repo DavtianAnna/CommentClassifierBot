@@ -72,7 +72,7 @@ Follow these steps to get the bot up and running on your local machine.
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/DavtianAnna/CommentClassifierBot.git
-   cd CommentClassifierBot
+   cd CommentClassifierBot/
 
 2. **Install dependencies:**  
    Install all the required Python libraries using pip:  
@@ -93,17 +93,3 @@ Follow these steps to get the bot up and running on your local machine.
    Start the bot by executing the following command in your terminal:  
    ```bash
    python bot.py
-
-
-
-
-
-
-
-
-
-
-
-
-
-
